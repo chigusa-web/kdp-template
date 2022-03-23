@@ -1,0 +1,7 @@
+---
+title: KDP書籍サンプルテンプレート
+author: サンプル著者
+rights: © 2022 サンプル著者
+language: ja-JP
+toc-title: 目次
+...

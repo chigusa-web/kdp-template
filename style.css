@@ -1,0 +1,145 @@
+/* 目次 */
+
+div#toc {
+  margin: 1em;
+}
+
+/* タイトル */
+
+h1 {
+  text-align: left;
+  padding: 0.4em;
+  color: #494949;
+  background: #e0f2f7;
+  border-left: solid 5px #7db4e6;
+  margin: 0em 0 0.8em 0;
+}
+
+h2 {
+  text-align: left;
+  color: #6594e0;
+  border-bottom: dashed 2px #6594e0;
+  margin: 0.8em 0 0.8em 0;
+}
+
+h3 {
+  border-bottom: solid 1px #686868;
+  margin: 0.8em 0 0.8em 0;
+}
+
+/* テーブル */
+
+table {
+  border-collapse: collapse;
+  border: solid 2px black;
+  width: 100%;
+  word-break: break-all;
+}
+
+table th {
+  border: solid 1px black;
+  background-color: #ffdd9e;
+}
+
+table td {
+  border: solid 1px black;
+}
+
+/* 文章 */
+
+p,
+li,
+code {
+  word-break: break-all;
+}
+
+p {
+  text-align: justify;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+/* 引用 */
+
+blockquote {
+  width: 90%;
+  padding: 1px;
+  border-left: solid 5px #a5a5a5;
+  font-style: italic;
+  color: #464646;
+  line-height: 1px;
+}
+
+/* ソースコード */
+
+div.sourceCode {
+  width: 98%;
+  padding: 10px;
+  font-size: small;
+  line-height: 1px;
+}
+
+pre > code.sourceCode {
+  white-space: pre-wrap;
+}
+
+/* 画像 */
+
+img {
+  border: 3px #949494 solid;
+  width: 100%;
+}
+
+.img35 {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img50 {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img75 {
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img90 {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img100 {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* メモ */
+
+.memoText {
+  padding: 0 0.8em;
+  margin: 0 0 0.8em 0;
+  background: #f0f7ff;
+  border: dashed 2px #5b8bd0;
+}
+
+/* 枠 */
+
+.waku {
+  border: solid 2px #c0c0c0;
+  border-radius: 10px;
+  padding: 0.2em 1em 0.2em 0;
+}
