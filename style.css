@@ -38,7 +38,7 @@ table {
 
 table th {
   border: solid 1px black;
-  background-color: #ffdd9e;
+  background-color: #e0e0e0;
 }
 
 table td {
@@ -69,7 +69,6 @@ blockquote {
   border-left: solid 5px #a5a5a5;
   font-style: italic;
   color: #464646;
-  line-height: 1px;
 }
 
 /* ソースコード */
