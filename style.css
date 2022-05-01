@@ -88,39 +88,51 @@ pre > code.sourceCode {
 
 img {
   border: 3px #949494 solid;
-  width: 100%;
 }
 
-.img35 {
-  width: 35%;
+.img25 img {
+  width: 25% !important;
+  height: auto !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img50 {
-  width: 50%;
+.img35 img {
+  width: 35% !important;
+  height: auto !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img75 {
-  width: 75%;
+.img50 img {
+  width: 50% !important;
+  height: auto !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img90 {
-  width: 90%;
+.img75 img {
+  width: 75% !important;
+  height: auto !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img100 {
-  width: 100%;
+.img90 img {
+  width: 90% !important;
+  height: auto !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img100 img {
+  width: 100% !important;
+  height: auto !important;
   display: block;
   margin-left: auto;
   margin-right: auto;
